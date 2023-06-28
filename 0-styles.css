@@ -1,0 +1,31 @@
+/* Variables */
+.container {
+  background-image: url("images/background (1).png");
+  width: 1400px;
+  height: 800px;
+  flex-shrink: 0;
+}
+
+.header-container  {
+  width: 62.5245rem;
+  height: 2rem;
+  flex-shrink: 0;
+}
+
+.navbar-menu
+.nav li {
+  display: inline-flex;
+  height: 0.9375rem;
+  justify-content: center;
+  align-items: inherit;
+  gap: 2.5625rem;
+  flex-shrink: 0;
+  margin: 1rem auto;
+}
+
+.nav li {
+  color: #FFF;
+  font-size: 0.75rem;
+  font-family: Source Sans Pro;
+  font-weight: 700;
+}
